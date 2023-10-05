@@ -10,7 +10,6 @@
   - Installation
 - Usage
 - Contributing
-- License
 
 ## Introduction
 
@@ -40,18 +39,9 @@ You only need a modern web browser to run this project. No additional software o
 ### Installation
 
 1. Clone the repository to your local machine using Git:
-
-  
-   git clone https://github.com/shivamv003/Percentage_Calculator.git
+  git clone https://github.com/shivamv003/Percentage_Calculator.git
    
-
-2. Open the project folder:
-
-
-   cd Percentage_Calculator
-
-
-3. Open `percentage.html` in your preferred web browser.
+2. Open `percentage.html` in your preferred web browser.
 
 ## Usage
 
