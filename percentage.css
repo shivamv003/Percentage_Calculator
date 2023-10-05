@@ -1,0 +1,88 @@
+body.bodyclass{
+    background-color: #6DA5C0;
+}
+
+header.headerclass{
+    background-color: #294D61;
+    border-radius: 5px;
+}
+
+h1.heading{
+display: block;
+text-align: center;
+ text-transform:capitalize;
+color: aqua;
+font-size: 40px;
+font-family: sans-serif;
+   text-shadow: 0 0 9px #FF0000, 0 0 10px #0000FF;
+}
+
+.box{
+/*    display: flex;*/
+    align-items: center;
+    border-radius: 25px;
+    background-color: aliceblue;
+    align-content: center;
+    margin: auto;
+    height: 600px;
+    width: 500px;
+ box-shadow: 10px 1px 20px 1px #072E33;
+/*    right top blurradius opacity*/
+    
+    
+}
+.contents{
+    padding: 30px;
+    display: block;
+
+}
+
+.text{
+    font-family: serif;
+    font-size: 25px;
+    text-transform:capitalize;
+    padding-bottom: 15px;
+    font-weight: 800;
+    text-align: center;
+}
+.text1{
+    font-family: serif;
+    font-size: 25px;
+    padding-top:20px;
+    text-transform:capitalize;
+    font-weight: 800;
+}
+
+
+.formstyle{
+    text-align: center;
+}
+
+.inputetext{
+    margin: auto;
+    display: block;
+    box-shadow: 3px 3px 5px 1px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.submitclass{
+    margin: auto;
+    display: block;
+    font-size: 20px;
+    border-radius: 6px;
+    color: black;
+    background-color: aqua;
+}
+
+.result
+{
+      font-family: cursive;
+    font-size: 25px;
+    text-transform:capitalize;
+    padding-bottom: 15px;
+    font-weight: 800;
+    text-align: center;
+}
