@@ -75,4 +75,4 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ---
 
-Thank you for using the Percentage Calculator! If you have any questions or encounter any issues, please don't hesitate to contact us (mailto:shivamv5162@gmail.com). Happy calculating!
+Thank you for using the Percentage Calculator! If you have any questions or encounter any issues, please don't hesitate to contact us (mailto: shivamv5162@gmail.com). Happy calculating!
